@@ -3,14 +3,26 @@
 <!--
 **montahalotaibi/montahalotaibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Porfolio
+
+> My portfolio website to practice everything I learned in react and CSS animations.
+
+## Built With
+
+- JavaScript, Html and CSS
+- React JS
+- Framer motion and AOS
+
+## Authors
+
+👤 **Muntaha alotaibi**
+
+- GitHub: [@Aljuraysih](https://github.com/aljuraysiH)
+- Twitter: [@HamadDev](https://twitter.com/HamadDev)
+- LinkedIn: [](https://www.linkedin.com/in/muntaha-alotaibi-a63002165/)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
