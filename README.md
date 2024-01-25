@@ -1,7 +1,7 @@
 Hi 👋 My name is Muntaha Alotaibi
 ================================
 
-Frontend Developer
+Frontend Web Developer
 -----------------------
 
 Aspiring to the best, I'm working to enhance my web development skills and, after I've achieved that, I'll begin learning new web technologies.
