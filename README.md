@@ -1,13 +1,13 @@
-Hi 👋 My name is Hamad Aljuraysi
+Hi 👋 My name is Muntaha Alotaibi
 ================================
 
-MERN Developer
+Frontend Developer
 -----------------------
 
 Aspiring to the best, I'm working to enhance my web development skills and, after I've achieved that, I'll begin learning new web technologies.
 
 * 🌍  I'm based in Saudi Arabia, Riyadh
-* ✉️  You can contact me at [aljuraysiH@gmail.com](mailto:aljuraysiH@gmail.com)
+* ✉️  You can contact me at [montahalotaibi@gmail.com(mailto:montahalotaibi@gmail.com)
 * 🧠  I'm practicing MERN
 * 🤝  I'm open to collaborating on anything that will improve my skills.
 
@@ -25,7 +25,7 @@ Aspiring to the best, I'm working to enhance my web development skills and, afte
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Hamad~#1417" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/aljuraysiH" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hamad-aljuraysi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HamadDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/~#1417" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/aljuraysiH" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="[https://www.linkedin.com/in/hamad-aljurays](https://www.linkedin.com/in/muntaha-alotaibi-a63002165/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HamadDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
