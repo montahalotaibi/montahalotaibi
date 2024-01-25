@@ -8,7 +8,6 @@ Aspiring to the best, I'm working to enhance my web development skills and, afte
 
 * 🌍  I'm based in Saudi Arabia, Riyadh
 * ✉️  You can contact me at(montahalotaibi@gmail.com)
-* 🧠  I'm practicing MERN
 * 🤝  I'm open to collaborating on anything that will improve my skills.
 
 ### Skills
